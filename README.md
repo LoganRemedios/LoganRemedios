@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @LoganRemedios
-- 👀 I’m interested in sport/fashion/technology/cars
+
